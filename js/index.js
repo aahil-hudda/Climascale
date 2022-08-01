@@ -1,4 +1,4 @@
-var n = 500
+var n = 500;
 
 $(window).bind("resize", function() {
     console.log($(this).width())
